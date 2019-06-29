@@ -1,1 +1,1 @@
-# SudokuTask3
+# Sudoku
